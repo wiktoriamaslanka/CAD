@@ -1,0 +1,19 @@
+/* RWD */
+
+@media (max-width: 991px) {
+    .navbar:not(.top-nav-collapse) {
+        background: $mainPink !important;
+    }
+    .text-behind {
+        font-size: 7em !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .my-btn-pink {
+        margin: auto;
+    }
+    #skills img {
+        max-width: 80%;
+    }
+}
