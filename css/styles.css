@@ -144,7 +144,7 @@ footer img {
 }
 
 .rgba-gradient {
-    background: linear-gradient(45deg, #f80040, #150941 100%);
+    background: linear-gradient(45deg, #04994f, #150941 100%);
 }
 
 #intro-section {
@@ -208,7 +208,7 @@ section {
 .section-dash {
     width: 1px;
     height: 60px;
-    background-color: #150941;
+    background-color: darkgreen;
 }
 
 .center-element {
