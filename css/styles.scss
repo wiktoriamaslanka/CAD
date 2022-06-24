@@ -25,11 +25,11 @@ html {
 /*SCROLLBAR, SELECTION - PREFIX*/
 
 *::selection {
-    background: $mainPinkOpacity;
+    background: green;
 }
 
 *::-moz-selection {
-    background: $mainPinkOpacity;
+    background: darkgreen;
 }
 
  ::-webkit-scrollbar {
